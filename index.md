@@ -21,4 +21,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was creating a blinking LED circuit since an LED light bulb would be easier to control than the LED ring that would be used in my weather indicator. I used a breadboard and jumper wires for creating the circuit and linking the light bulb to my ESP32 development board. The cathode of the LED was linked to ground while the anode of the LED was linked to a resistor that was linked to D5 on the ESP32 board. I used Arduino to write the code, which put the LED's outputs as "high" and "low" with delays in between, creating a blinking appearance. 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://i.imgur.com/m7CrPYl.jpg)](https://www.youtube.com/watch?v=l1HJ_1RsJoE&t=3s "First Milestone"){:target="_blank" rel="noopener"}
