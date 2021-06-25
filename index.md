@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-I connected the LED circuit created for my first milestone to Adafruit. I created a dashboard on Adafruit and then created two feeds under that dashboard. The feeds controlled the output of the LED pin and its color. The connection is done via wifi, so I have to switch to the 2.4G wifi at my house since the 5G one does not work. 
+I connected the LED circuit created for my first milestone to Adafruit. I created a dashboard on Adafruit and then created two feeds under that dashboard. The feeds controlled the output of the LED pin and its color. However, since the LED light bulb only has one color, the output can only be blue. I modified the Wifi SSID and passowrd in the Arduino code and changed the IO username and key to my own account in order for the connection to succeed. 
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
