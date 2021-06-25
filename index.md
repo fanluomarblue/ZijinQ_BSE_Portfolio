@@ -13,12 +13,11 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+I connected the LED circuit created for my first milestone to Adafruit. I created a dashboard on Adafruit and then created two feeds under that dashboard. The feeds controlled the output of the LED pin and its color. The connection is done via wifi, so I have to switch to the 2.4G wifi at my house since the 5G one does not work. 
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
-# First Milestone
-  
 
+# First Milestone
 My first milestone was creating a blinking LED circuit since an LED light bulb would be easier to control than the LED ring that would be used in my weather indicator. I used a breadboard and jumper wires for creating the circuit and linking the light bulb to my ESP32 development board. The cathode of the LED was linked to ground while the anode of the LED was linked to a resistor that was linked to D5 on the ESP32 board. I used Arduino to write the code, which put the LED's outputs as "high" and "low" with delays in between, creating a blinking appearance. 
 
 [![First Milestone](https://i.imgur.com/m7CrPYl.jpg)](https://www.youtube.com/watch?v=l1HJ_1RsJoE&t=3s "First Milestone"){:target="_blank" rel="noopener"}
