@@ -15,7 +15,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 I connected the LED circuit created for my first milestone to Adafruit. I created a dashboard on Adafruit and then created two feeds under that dashboard. The feeds controlled the output of the LED pin and its color. However, since the LED light bulb only has one color, the output can only be blue. I modified the Wifi SSID and passowrd in the Arduino code and changed the IO username and key to my own account in order for the connection to succeed. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://i.imgur.com/teYTR6U.png)](https://www.youtube.com/watch?v=XbeRFjYvVtw){:target="_blank" rel="noopener"}
 
 # First Milestone
 My first milestone was creating a blinking LED circuit since an LED light bulb would be easier to control than the LED ring that would be used in my weather indicator. I used a breadboard and jumper wires for creating the circuit and linking the light bulb to my ESP32 development board. The cathode of the LED was linked to ground while the anode of the LED was linked to a resistor that was linked to D5 on the ESP32 board. I used Arduino to write the code, which put the LED's outputs as "high" and "low" with delays in between, creating a blinking appearance. 
