@@ -5,9 +5,11 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Zijin Qin | American Fork High School | Computer Science | Incoming Senior
 
+![Head Image](https://i.imgur.com/REjwurq.jpg)
+
 # Demo Night
 
-[![Demo Night](https://i.imgur.com/bOmTG7F.jpg )](https://www.youtube.com/watch?v=EhOgjXtLBQo&t=4s "Demo Night"){:target="_blank" rel="noopener"}
+[![Demo Night](https://i.imgur.com/n97CQ60.png)](https://www.youtube.com/watch?v=EhOgjXtLBQo&t=4s "Demo Night"){:target="_blank" rel="noopener"}
   
 # Final Milestone
 I soldered the power, ground, and data input on the NeoPixel LED ring to three wires, which are connected to the breadboard. I then used the breadboard to connect the wires to different pins on the ESP32 development board using jumper wires. I used Weather Underground from IFTTT to connect the data to Adafruit, setting each of the weather as three numerical values. In Arduino, I used for and if loops to display the three different colors for each of the three weathers on the LED ring.
