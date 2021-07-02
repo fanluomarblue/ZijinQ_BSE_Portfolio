@@ -1,5 +1,5 @@
 ﻿# IoT Weather Indicator
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+My weather indicator will show green, white, and yellow for each of the weathers cloudy, snowy, and clear. Personally, I believe it is much easier to look at a colored ring compared to checking the weather channel. I have modified the colors and weathers for my project to be most useful for myself since we don't usually get rain here. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
